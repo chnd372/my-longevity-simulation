@@ -96,7 +96,7 @@ def UpdateHomepagePreview():
                 break  # Stop adding once we reach the newest existing chapter
             chapter_id = chapter['filename'].replace('.txt', '')
             utc_time = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
-            chapter_html += f'''<div class="chaptersPanel-item" data-url="/read/{chapter_id}/" data-utc="{utc_time}">
+            chapter_html += f'''<div class="chaptersPanel-item" data-url="read/{chapter_id}/" data-utc="{utc_time}">
                 <b>{chapter['title']}</b>
                 <div class="local-timestamp"></div>
             </div>\n'''
