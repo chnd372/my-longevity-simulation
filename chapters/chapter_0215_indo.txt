@@ -120,19 +120,27 @@ Ia tegas memilih opsi pertama: menyimpan sebuah barang pribadi yang dimilikinya�
 
 Setelah membuat keputusan, Li Fan pertama-tama memeriksa antarmuka [Truth], yang sudah lama tak ia lihat.
 
-Nama: Li Fan  
-Tingkat Kultivasi: Foundation Establishment Tahap Akhir  
-Usia Fisik: 20/399  
-Usia Mental: 1212/3700  
-Progres Pengisian Ulang Virtualisasi: 0%  
-Progres Pengisian Ulang Titik Jangkar: 1%  
-Titik Jangkar Saat Ini: 3  
-Titik Jangkar Tersedia: 0  
-Barang Terikat: “Treatise on Jade Cosmos Thousand Variations”, Perahu Tai Yan, Batu Prasasti Larangan (Rusak), Esensi Darah Sepuluh Ribu Orang, Batu Transformasi Dao  
+Nama: Li Fan
 
-Teknik Kultivasi: Mantra Penyempurnaan Hati Yang Dihormati, Seni Mimpi Ilusi Air Awan, Stealing Technique Matahari, Treatise on Jade Cosmos Thousand Variations, Teknik Ilusi Niat Rohani  
+Tingkat Kultivasi: Foundation Establishment Tahap Akhir
 
-Kemampuan Ilahi: Rantai Kehidupan dan Kematian, Niat Pembunuh Tanpa Bentuk, Binding Technique Serangga  
+Usia Fisik: 20/399
+
+Usia Mental: 1212/3700
+
+Progres Pengisian Ulang Virtualisasi: 0%
+
+Progres Pengisian Ulang Titik Jangkar: 1%
+
+Titik Jangkar Saat Ini: 3
+
+Titik Jangkar Tersedia: 0
+
+Barang Terikat: “Treatise on Jade Cosmos Thousand Variations”, Perahu Tai Yan, Batu Prasasti Larangan (Rusak), Esensi Darah Sepuluh Ribu Orang, Batu Transformasi Dao
+
+Teknik Kultivasi: Mantra Penyempurnaan Hati Yang Dihormati, Seni Mimpi Ilusi Air Awan, Stealing Technique Matahari, Treatise on Jade Cosmos Thousand Variations, Teknik Ilusi Niat Rohani
+
+Kemampuan Ilahi: Rantai Kehidupan dan Kematian, Niat Pembunuh Tanpa Bentuk, Binding Technique Serangga
 
 Batas usia fisik dan mental telah stagnan.
 
@@ -142,9 +150,12 @@ Bagaimanapun, bagi Li Fan saat ini, lebih dari dua ribu tahun waktu reinkarnasi 
 
 Selain teknik-teknik kultivasi yang terdaftar, Li Fan juga menguasai banyak lagi.
 
-Pedang Cong Yun Sea dan Teknik Menginjak Gelombang Canghai.  
-Mountain Meditation Technique—metode kultivasi internal.  
-Dua teknik kuno: Dao Transformasi Ilahi dan Heavenly Soul Inspection Technique Ungu.  
+Pedang Cong Yun Sea dan Teknik Menginjak Gelombang Canghai.
+
+Mountain Meditation Technique—metode kultivasi internal.
+
+Dua teknik kuno: Dao Transformasi Ilahi dan Heavenly Soul Inspection Technique Ungu.
+
 Dan terakhir, warisan Formasi Tak Terbatas dari Zhang Zhiliang.
 
 Sifat ganas [Truth] tampak jelas pada momen ini.
